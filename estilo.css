@@ -1,0 +1,70 @@
+body{
+   background-image: url(../clase5/imagenes/captura2.png),url(../clase5/imagenes/Captura\ de\ pantalla\ 2023-02-16\ 010138.png);
+   background-repeat: no-repeat;
+   background-size: 50%;
+   background-position: left top 70px , right top ;
+  
+}
+
+nav{
+    height: 80px;
+    background-color: blanchedalmond;
+   
+}
+nav li{
+   
+    display: inline-block;
+    margin-right: 70px;
+    padding: 5px;
+    text-align: center;
+    margin: 30px;
+
+  
+}
+
+#imagen-logo img{
+   
+    float: left; 
+    padding-left: 30px;
+    height: 90px;
+    width: 90px;
+    max-width: 100%;   
+}
+.container {
+    position: fixed;
+    right: 0;
+    
+}
+ 
+.container img {
+    transform: translateY(-50%);
+ }
+ul{
+    text-align: center;
+ 
+  
+}
+h2{
+    text-align: center;
+    margin-top: 80px;
+}
+p{
+    text-align: center;
+}
+/*
+h1{
+    text-align: center;
+    color: aqua;
+}
+
+
+
+nav li {
+ display: inline-block;
+ margin: 10px; 
+}
+
+nav a{
+    color: aliceblue     ;
+}
+*/
